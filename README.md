@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iGsjDmK.jpeg" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Manvi Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 
 
-- 🔭 I’m currently working on **Web dev project**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 👯 I’m looking to collaborate on **Web dev project**
+- 👯 I’m looking to collaborate on **PowerBI and Data Science project**
 
 - 📫 How to reach me **manvi170702@gmail.com**
 
